@@ -13,7 +13,7 @@ spec:
         app: my-python-app
     spec:
       containers:
-      - name: mypythondockerrepo
+      - name: mypy
         image: shivkumarsingh990/23
         ports:
         - containerPort: 5000
